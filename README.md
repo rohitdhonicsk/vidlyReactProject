@@ -15,11 +15,15 @@ This is Small React Project that fetches movies data and genres from backend and
 
 ## UI
 1. UI IMAGE SHOWN FOR ALL MOVIES 
-<br>
 ![UI1](UI1.PNG)
+
 2. UI IMAGE SHOWN FOR SELECTED GENRE (ie comedy)
-<br>
 ![UI2](UI2.PNG)
+
+## STEPS TO RUN
+1. Git Clone "URL OF THIS REPO"
+2. npm install
+3. npm start
 
 ## Future Scope
 
